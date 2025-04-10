@@ -1,5 +1,5 @@
 # Twitter-Clone
-Twitter clone by Oyelabs helps launch a customizable microblogging platform with monetization and real-time features.
+Twitter clone by Oyelabs helps launch a customizable microblogging platform with monetization and real-time features. 
 
   <h3>MOONWITTER – A Customizable Twitter Clone for Your Microblogging Platform</h3>
 
