@@ -36,7 +36,7 @@ Twitter clone by Oyelabs helps launch a customizable microblogging platform with
   <p>MoonWitter is built for performance and scale, using widely supported technologies that are easy to maintain and extend. The codebase is clean, modular, and well-documented for future customization.</p>
 
   <h3>Ready to Launch Your Own Twitter-Like App?</h3>
-  <p>MoonWitter is your complete solution for starting a modern, feature-rich microblogging platform.Reach out to us at <a href="mailto:grow@oyelabs.com">grow@oyelabs.com</a></strong> or visit <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> to get started.</p>
+<p>MoonWitter is your complete solution for starting a modern, feature-rich microblogging platform. Reach out to us at <a href="mailto:myoyelabs@gmail.com">myoyelabs@gmail.com</a> or visit <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> to get started.</p>
 
-  <p><strong>Let’s build your next big social platform — together.</strong></p>
+<p><strong>Let’s build your next big social platform — together.</strong></p>
 </body>
