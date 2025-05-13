@@ -3,7 +3,7 @@ Twitter clone by Oyelabs helps launch a customizable microblogging platform with
 
   <h3>MOONWITTER – A Customizable Twitter Clone for Your Microblogging Platform</h3>
 
-  <p><strong>MoonWitter by Oyelabs</strong> is a powerful <a href="https://oyelabs.com/twitter-clone/" target="_blank">Twitter clone</a> that helps you build your own microblogging platform with complete customization. Whether you're targeting a niche audience or a global user base, MoonWitter allows you to launch a fully-featured, secure, and scalable social networking app without heavy upfront investment.</p>
+  <p><strong>MoonWitter by Oyelabs</strong> is a powerful <a href="https://oyelabs.com/twitter-clone/?utm_source=Social+&utm_medium=github&utm_campaign=github_listing" target="_blank">Twitter Clone</a> that helps you build your own microblogging platform with complete customization. Whether you're targeting a niche audience or a global user base, MoonWitter allows you to launch a fully-featured, secure, and scalable social networking app without heavy upfront investment.</p>
 
   <p>Built using PHP, Laravel, MySQL for the backend and Flutter 3.10.6 for mobile apps, MoonWitter combines performance with versatility. It’s equipped with all the core features of a Twitter-style platform — plus advanced functionality to monetize content, control privacy, support multi-language users, and run ads or donations.</p>
 
